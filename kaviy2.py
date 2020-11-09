@@ -53,12 +53,12 @@ logo = """
 ░█▀▄─ ░█▄▄█ ─░█░█─ ░█─ ░█▄▄▄█ 
 ░█─░█ ░█─░█ ──▀▄▀─ ▄█▄ ──░█──
 
-      ආතල් විතරයි 
-        කැරියෙක් 
+     keriyek thamai
+        aathal only
 
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mhacker subhash
-\033[1;96mInstagram \033[1;93m: \033[1: subhash තමයි
+\033[1;96mInstagram \033[1;93m: \033[1: subhash 
 \033[1;96mFacebook  \033[1;93m: \033[1: kavindu subhash 
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/kavindusubhash 
 \033[1;91m======================================="""
@@ -66,7 +66,7 @@ logo = """
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mටිකක් හිටපන් \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●] \x1b[1;93mwait \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
